@@ -1,5 +1,11 @@
 *{
-    margin: 0px;
+    margin: 5px;
     padding: 0px;
     box-sizing: border-box;
+}
+header {
+    background-color: #D2C1B6;
+    color: rgb(69, 104, 130);
+    padding: 10px 20px;
+    text-align: center;
 }
